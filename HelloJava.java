@@ -1,4 +1,3 @@
-package com.ramakant;
 
 public class HelloJava {
 
